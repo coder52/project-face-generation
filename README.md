@@ -6,6 +6,6 @@ The project will be broken down into a series of tasks from **loading in data to
 
 ### Get the Data
 
-I'll be using the [CelebFaces Attributes Dataset (CelebA)](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) to train your adversarial networks.
+I'll be using the [CelebFaces Attributes Dataset (CelebA)](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) to train the adversarial networks.
 
 I will define deeper networks and train them for a longer time to get good results. It is suggested that utilize a GPU for training.
